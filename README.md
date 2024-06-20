@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @TurquioseZebra
-- 👀 I’m interested in ... learning to code software and games.
-- 🌱 I’m currently learning ... How to code in Godt using Godot's native language based on Python.
-- 💞️ I’m looking to collaborate on ... On a game which is based on an old flash game from my childhood.
-- 📫 How to reach me ... message me on dicord via Pendriom#6530
+- 👀 I’m interested in ... learning to analyze data and draw conclusions from evidence-based policy solutions for epidemiolgical research.
+- 🌱 I’m currently learning ... how to utilize latent variables to analyze social constructs and belief systems such as vaccine hesitancy and infodemic risk.
+- 📫 How to reach me ... message me on dicord via Pendriom#6530 or email me at stefanjmcabrera@gmail.com
 
 <!---
 TurquioseZebra/TurquioseZebra is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
